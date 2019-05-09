@@ -5,7 +5,7 @@ You can also skip to the dent detection section and run the software with pre-ta
 <br/>
 View [sample result](./detected.jpg)
 <br/>
-[Demo video](https://www.youtube.com/watch?v=8r61Gxt02Us&t=1s)
+View [Demo video](https://www.youtube.com/watch?v=8r61Gxt02Us&t=1s)
 
 ## Image acquisition
 This is the GUI installation guide for Raspberry Pi. 
